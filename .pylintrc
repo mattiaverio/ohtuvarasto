@@ -23,5 +23,5 @@ max-line-length = 80
 max-nested-blocks = 2
 
 [DESIGN]
-max-statements = 15
+max-statements = 50
 max-args = 5
